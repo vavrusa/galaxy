@@ -7,6 +7,7 @@ import logging
 import imp
 import data
 import tabular
+import molecules
 import interval
 import images
 import sequence

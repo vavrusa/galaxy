@@ -1,0 +1,44 @@
+.admonition {
+	padding: 1em 1em 0 1em;
+}
+
+.admonition .admonition-header {
+	margin: -1em;
+	display: block;
+	padding: 0.25em;
+	margin-bottom: 0.5em;
+	font-weight: bold;
+	color: white;
+}
+
+.admonition .admonition-content {
+	margin: 0;
+	margin-bottom: 0.5em;
+}
+
+.admonition-notice {
+	background: #aff1af;
+	font-family: monospace;
+}
+
+.admonition-notice .admonition-header {
+	background: #5C945C;
+}
+
+.admonition-tip {
+	background: #DFE5F9;
+}
+
+.admonition-tip .admonition-header {
+	background: #5F6990;
+}
+
+.code {
+	color: navy;
+	font-family: monospace;
+	background-color: #ccc;
+}
+
+.admonition textarea {
+	width: 100%;
+}
